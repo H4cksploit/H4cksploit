@@ -2,21 +2,23 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+
+- [digispark-usb-ducky-project](https://github.com/H4cksploit/digispark-usb-ducky-project)
+
+<h2>📺 Articles</h2>
+
+- [Oxygen Forensics’ DETECTIVE Mobile Device Forensics Suite tutorial.](https://hacksploit.medium.com/oxygen-forensics-detective-mobile-device-forensics-suite-tutorial-1bb23d1d0e80)
+- [Researchers at Google Cloud identified 34 different hacked release versions of the Cobalt Strike tool in the wild.](https://hacksploit.medium.com/researchers-at-google-cloud-identified-34-different-hacked-release-versions-of-the-cobalt-strike-6be07fcaacb8)
+- [Security Information and Event Management (SIEM) — A Detailed Explanation.](https://hacksploit.medium.com/security-information-and-event-management-siem-a-detailed-explanation-17a8cfaca006)
+- [A step by step guide to Silent SMS Attacks and Security.](https://hacksploit.medium.com/a-step-by-step-guide-to-silent-sms-attacks-and-security-838d91404780)
+- [GSM Sniffing With Software Defined Radio.](https://hacksploit.medium.com/gsm-sniffing-with-software-defined-radio-b19634f94742)
+- [Google Hacking vs Criminal IP.](https://hacksploit.medium.com/google-hacking-vs-criminal-ip-89e062938569)
+- [Awesome Bug Bounty Tools.](https://hacksploit.medium.com/awesome-bug-bounty-tools-79c81ba5e24b)
+- [OSCP Cheat Sheet.](https://hacksploit.medium.com/oscp-cheat-sheet-ac44d9013148)
+- [What Is a Browser-in-the-Browser Attack and How Can You Protect Yourself This article explores a phishing technique that simulates a browser window within the browser to spoof a legitimate domain.](https://hacksploit.medium.com/what-is-a-browser-in-the-browser-attack-and-how-can-you-protect-yourself-this-article-explores-a-7b631d0d5772)
+- [Live Forensicator: Powershell Script to aid Incidence Response and Live Forensics.](https://hacksploit.medium.com/live-forensicator-powershell-script-to-aid-incidence-response-and-live-forensics-80fba8b083e5)
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
@@ -36,8 +38,7 @@
 [youtube]: https://www.youtube.com/@hacksploit
 [linkedin]: https://www.linkedin.com/in/ali-raza-a4085719b/
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
