@@ -1,10 +1,10 @@
-<h1>Hi, I'm Ali Raza! <br/><a href="https://github.com/H4cksploit">Ethical Hacker</a>, <a href="https://www.linkedin.com/in/ali-raza-a4085719b/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@hacksploit">YouTuber</a></h1>
+<h1>Hi, I'm Ali Raza! <br/><a href="https://github.com/H4cksploit">Ethical Hacker</a>, <a href="https://www.linkedin.com/in/ali-raza-a4085719b/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@hacksploit">YouTuber</a>, <a href="https://hacksploit.medium.com/">Blog</a></h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 
 
-- [digispark-usb-ducky-project](https://github.com/H4cksploit/digispark-usb-ducky-project)
+- [Digispark-usb-ducky-project](https://github.com/H4cksploit/digispark-usb-ducky-project)
 
 <h2>📺 Articles</h2>
 
