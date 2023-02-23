@@ -6,7 +6,7 @@
 
 - [Digispark-usb-ducky-project](https://github.com/H4cksploit/digispark-usb-ducky-project)
 
-<h2>📺 Articles</h2>
+<h2> 📝 Articles</h2>
 
 - [Oxygen Forensics’ DETECTIVE Mobile Device Forensics Suite tutorial.](https://hacksploit.medium.com/oxygen-forensics-detective-mobile-device-forensics-suite-tutorial-1bb23d1d0e80)
 - [Researchers at Google Cloud identified 34 different hacked release versions of the Cobalt Strike tool in the wild.](https://hacksploit.medium.com/researchers-at-google-cloud-identified-34-different-hacked-release-versions-of-the-cobalt-strike-6be07fcaacb8)
