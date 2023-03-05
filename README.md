@@ -19,6 +19,8 @@
 - [OSCP Cheat Sheet.](https://hacksploit.medium.com/oscp-cheat-sheet-ac44d9013148)
 - [What Is a Browser-in-the-Browser Attack and How Can You Protect Yourself This article explores a phishing technique that simulates a browser window within the browser to spoof a legitimate domain.](https://hacksploit.medium.com/what-is-a-browser-in-the-browser-attack-and-how-can-you-protect-yourself-this-article-explores-a-7b631d0d5772)
 - [Live Forensicator: Powershell Script to aid Incidence Response and Live Forensics.](https://hacksploit.medium.com/live-forensicator-powershell-script-to-aid-incidence-response-and-live-forensics-80fba8b083e5)
+- [Get Hacked By Accidentally Copy Pasting.](https://hacksploit.medium.com/fffff-197c6d4e1837)
+- [WiFi-captive-portal-for-ESP8266-Fake-sign-in.](https://hacksploit.medium.com/wifi-captive-portal-for-esp8266-fake-sign-in-e9b91aa20b96)
 
 
 <h2>📺 Popular YouTube Videos</h2>
@@ -28,6 +30,9 @@
 - [BITB can hack your accounts. How to detect it?](https://www.youtube.com/watch?v=2DI2Um_-PrE)
 - [Automated Recon/Enumeration/CVEs identifier Using nmapAutomator](https://www.youtube.com/watch?v=9ocvgImFUrU&t=17s)
 - [What is homograph idn homograph attack & Spoofed URL Attack](https://www.youtube.com/watch?v=Okd29VggOK4&t=370s)
+- [Get Hacked By Accidentally Copy Pasting.](https://youtu.be/N7mMrP4Aw-4)
+- [How to Hack Any Wifi Password With Nodemcu Esp8266 wifi phishing.](https://www.youtube.com/watch?v=npoY0Ibbttc&t=64s)
+- 
 
 <h2> 🤳 Connect with me:</h2>
 
