@@ -32,7 +32,7 @@
 - [What is homograph idn homograph attack & Spoofed URL Attack](https://www.youtube.com/watch?v=Okd29VggOK4&t=370s)
 - [Get Hacked By Accidentally Copy Pasting.](https://youtu.be/N7mMrP4Aw-4)
 - [How to Hack Any Wifi Password With Nodemcu Esp8266 wifi phishing.](https://www.youtube.com/watch?v=npoY0Ibbttc&t=64s)
-- 
+
 
 <h2> 🤳 Connect with me:</h2>
 
