@@ -9,18 +9,18 @@
 
 <h2> 📝 Articles</h2>
 
-- [Oxygen Forensics’ DETECTIVE Mobile Device Forensics Suite tutorial.](https://hacksploit.medium.com/oxygen-forensics-detective-mobile-device-forensics-suite-tutorial-1bb23d1d0e80)
-- [Researchers at Google Cloud identified 34 different hacked release versions of the Cobalt Strike tool in the wild.](https://hacksploit.medium.com/researchers-at-google-cloud-identified-34-different-hacked-release-versions-of-the-cobalt-strike-6be07fcaacb8)
-- [Security Information and Event Management (SIEM) — A Detailed Explanation.](https://hacksploit.medium.com/security-information-and-event-management-siem-a-detailed-explanation-17a8cfaca006)
-- [A step by step guide to Silent SMS Attacks and Security.](https://hacksploit.medium.com/a-step-by-step-guide-to-silent-sms-attacks-and-security-838d91404780)
-- [GSM Sniffing With Software Defined Radio.](https://hacksploit.medium.com/gsm-sniffing-with-software-defined-radio-b19634f94742)
-- [Google Hacking vs Criminal IP.](https://hacksploit.medium.com/google-hacking-vs-criminal-ip-89e062938569)
-- [Awesome Bug Bounty Tools.](https://hacksploit.medium.com/awesome-bug-bounty-tools-79c81ba5e24b)
-- [OSCP Cheat Sheet.](https://hacksploit.medium.com/oscp-cheat-sheet-ac44d9013148)
-- [What Is a Browser-in-the-Browser Attack and How Can You Protect Yourself This article explores a phishing technique that simulates a browser window within the browser to spoof a legitimate domain.](https://hacksploit.medium.com/what-is-a-browser-in-the-browser-attack-and-how-can-you-protect-yourself-this-article-explores-a-7b631d0d5772)
+- [Oxygen Forensics’ DETECTIVE Mobile Device Forensics Suite tutorial.](https://h4cksploit.medium.com/oxygen-forensics-detective-mobile-device-forensics-suite-tutorial-1bb23d1d0e80)
+- [Researchers at Google Cloud identified 34 different hacked release versions of the Cobalt Strike tool in the wild.](https://h4cksploit.medium.com/researchers-at-google-cloud-identified-34-different-hacked-release-versions-of-the-cobalt-strike-6be07fcaacb8)
+- [Security Information and Event Management (SIEM) — A Detailed Explanation.](https://h4cksploit.medium.com/security-information-and-event-management-siem-a-detailed-explanation-17a8cfaca006)
+- [A step by step guide to Silent SMS Attacks and Security.](https://h4cksploit.medium.com/a-step-by-step-guide-to-silent-sms-attacks-and-security-838d91404780)
+- [GSM Sniffing With Software Defined Radio.](https://h4cksploit.medium.com/gsm-sniffing-with-software-defined-radio-b19634f94742)
+- [Google Hacking vs Criminal IP.](https://h4cksploit.medium.com/google-hacking-vs-criminal-ip-89e062938569)
+- [Awesome Bug Bounty Tools.](https://h4cksploit.medium.com/awesome-bug-bounty-tools-79c81ba5e24b)
+- [OSCP Cheat Sheet.](https://h4cksploit.medium.com/oscp-cheat-sheet-ac44d9013148)
+- [What Is a Browser-in-the-Browser Attack and How Can You Protect Yourself This article explores a phishing technique that simulates a browser window within the browser to spoof a legitimate domain.](https://h4cksploit.medium.com/what-is-a-browser-in-the-browser-attack-and-how-can-you-protect-yourself-this-article-explores-a-7b631d0d5772)
 - [Live Forensicator: Powershell Script to aid Incidence Response and Live Forensics.](https://hacksploit.medium.com/live-forensicator-powershell-script-to-aid-incidence-response-and-live-forensics-80fba8b083e5)
 - [Get Hacked By Accidentally Copy Pasting.](https://hacksploit.medium.com/fffff-197c6d4e1837)
-- [WiFi-captive-portal-for-ESP8266-Fake-sign-in.](https://hacksploit.medium.com/wifi-captive-portal-for-esp8266-fake-sign-in-e9b91aa20b96)
+- [WiFi-captive-portal-for-ESP8266-Fake-sign-in.](https://h4cksploit.medium.com/wifi-captive-portal-for-esp8266-fake-sign-in-e9b91aa20b96)
 
 
 <h2>📺 Popular YouTube Videos</h2>
@@ -41,7 +41,7 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [twitter]: https://twitter.com/H4cksploit
-[youtube]: https://www.youtube.com/@hacksploit
+[youtube]: https://www.youtube.com/@h4cksploit
 [linkedin]: https://www.linkedin.com/in/ali-raza-a4085719b/
 
 
